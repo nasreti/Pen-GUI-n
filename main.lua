@@ -2,7 +2,7 @@ function initUi()
     app.registerUi({
         ["menu"] = "Pen tool",
         ["callback"] = "pen",
-        ["accelerator"] = "p"
+        ["accelerator"] = "b"
     });
     app.registerUi({
         ["menu"] = "Eraser tool",
